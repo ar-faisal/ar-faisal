@@ -18,9 +18,10 @@
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c#)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### Technologies & Frameworks
