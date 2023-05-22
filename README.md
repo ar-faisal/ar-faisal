@@ -17,7 +17,7 @@
 </p>
 
 ### Languages
-(https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C#](https://img.shields.io/badge/cHash-black?style=for-the-badge&logo=c#)
