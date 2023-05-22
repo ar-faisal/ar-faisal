@@ -33,6 +33,8 @@
 ![Jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)
 ![NodeJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=nodejs)
 ![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=expressjs)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
 
 ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
