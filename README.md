@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/cHash-black?style=for-the-badge&logo=c#)
+![C#](https://img.shields.io/badge/c--hash-black?style=for-the-badge&logo=c#)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
