@@ -11,17 +11,17 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/abdurrahman__faisal">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
    
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)]
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)]
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)]
-[![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)]
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### Technologies & Frameworks
 
