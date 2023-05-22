@@ -31,7 +31,8 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=nodejs)
+![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=expressjs)
 
 ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
