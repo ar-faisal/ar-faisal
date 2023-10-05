@@ -24,11 +24,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 
-
-<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript">
-
-
-
 ### Technologies, Frameworks & Libraries
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
@@ -42,7 +37,6 @@
 ![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=dotnet)
 ![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=dotnet)
 ![RazorPages](https://img.shields.io/badge/ASP.Net_Core_Razor_Pages-black?style=for-the-badge&logo=dotnet)
-
 
 ### DataBase Technologies
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
