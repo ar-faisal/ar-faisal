@@ -20,16 +20,16 @@
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
-![C#](https://img.shields.io/badge/c_Hash-black?style=for-the-badge&logo=csharp)
-![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)
+
 
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
-![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=MVC)
+![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=dotnet)
 ![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=dotnet)
 
-### Technologies & Frameworks
+### Technologies, Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
