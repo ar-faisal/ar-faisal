@@ -39,7 +39,7 @@
 ![RazorPages](https://img.shields.io/badge/ASP.Net_Core_Razor_Pages-black?style=for-the-badge&logo=dotnet)
 
 ### DataBase Technologies
-![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
 ![MSSQLServer](https://img.shields.io/badge/MS_MQL_Server-black?style=for-the-badge&logo=microsoftsqlserver)
 
