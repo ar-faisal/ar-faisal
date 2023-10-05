@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Abdur Rahman Faisal.<br>
+        <strong>I'm Abdur Rahman Faisal</strong>.<br>
         Full Stack Web Developer<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
