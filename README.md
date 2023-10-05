@@ -24,7 +24,7 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
-![MVC](https://img.shields.io/badge/MVC-black?style=for-the-badge&logo=MVC)
+![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=MVC)
 
 ### Technologies & Frameworks
 
