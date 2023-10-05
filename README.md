@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Abdur Rahman Faisal.<br>
-        Currently learning Web Development<br>
+        Full Stack Web Developer<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://in.linkedin.com/in/ar-faisal">
