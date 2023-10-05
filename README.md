@@ -37,7 +37,7 @@
 ![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=nodedotjs)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angularjs)
-![mongoose](https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongodb)
 ![EF_Core](https://img.shields.io/badge/EF_Core-black?style=for-the-badge&logo=microsoftsqlserver)
 ![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=dotnet)
 ![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=dotnet)
