@@ -18,7 +18,7 @@
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
