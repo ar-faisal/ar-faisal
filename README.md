@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
 ![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=MVC)
+![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=webAPI)
 
 ### Technologies & Frameworks
 
