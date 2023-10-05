@@ -1,5 +1,4 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/ar-faisal/ar-faisal/assets/90391256/d3a9385e-b9fc-4b36-bb26-a92ad768a716" width="28px" alt="👋"></h1>
-![hand](https://github.com/ar-faisal/ar-faisal/assets/90391256/d3a9385e-b9fc-4b36-bb26-a92ad768a716)
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
