@@ -33,18 +33,25 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)
-![NodeJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=nodejs)
-![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=expressjs)
+![NodeJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=nodedotjs)
+![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=nodedotjs)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angularjs)
+![mongoose](https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongodb)
+![EF_Core](https://img.shields.io/badge/EF_Core-black?style=for-the-badge&logo=microsoftsqlserver)
 ![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=dotnet)
 ![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=dotnet)
 ![RazorPages](https://img.shields.io/badge/ASP.Net_Core_Razor_Pages-black?style=for-the-badge&logo=dotnet)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
 
 ### DataBase Technologies
 ![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
+![MSSQLServer](https://img.shields.io/badge/MS_MQL_Server-black?style=for-the-badge&logo=microsoftsqlserver)
+
+### Other Technologies
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
 
 ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
