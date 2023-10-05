@@ -20,27 +20,31 @@
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 ![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 
 
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
-![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
-![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=dotnet)
-![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=dotnet)
+
+
+
 
 ### Technologies, Frameworks & Libraries
-
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)
 ![NodeJS](https://img.shields.io/badge/nodeJS-black?style=for-the-badge&logo=nodejs)
 ![ExpressJS](https://img.shields.io/badge/expressJS-black?style=for-the-badge&logo=expressjs)
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angularjs)
+![MVC](https://img.shields.io/badge/ASP.Net_Core_MVC-black?style=for-the-badge&logo=dotnet)
+![WebAPI](https://img.shields.io/badge/ASP.Net_Core_WebAPI-black?style=for-the-badge&logo=dotnet)
+![RazorPages](https://img.shields.io/badge/ASP.Net_Core_Razor_Pages-black?style=for-the-badge&logo=dotnet)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
+### DataBase Technologies
+![MySQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MondoDB-black?style=for-the-badge&logo=mongodb)
 
 ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
