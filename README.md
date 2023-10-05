@@ -25,7 +25,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)
 
 
-
+<img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript">
 
 
 
