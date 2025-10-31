@@ -51,3 +51,8 @@
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
 
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
